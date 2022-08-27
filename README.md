@@ -4,7 +4,7 @@
 Button that changes text color to white
 
 ### App Walk-though
-<img src="https://imgflip.com/gif/6rdjqd" width=200><br>
+<img src="https://im.ezgif.com/tmp/ezgif-1-961611c0c3.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
