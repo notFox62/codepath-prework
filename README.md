@@ -1,7 +1,7 @@
 # codepath-prework
 
 ### App Description
-`TODO://` Add app description
+Button that changes text color to white
 
 ### App Walk-though
 <img src="https://imgflip.com/gif/6rdjqd" width=200><br>
