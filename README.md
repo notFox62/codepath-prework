@@ -4,7 +4,7 @@
 This application displays a Hello message to the user and allows the user to change the text color to white
 
 ### App Walk-though
-<img src="https://im.ezgif.com/tmp/ezgif-1-961611c0c3.gif" width=200><br>
+<img src="https://im4.ezgif.com/tmp/ezgif-4-6051280943.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
