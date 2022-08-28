@@ -1,7 +1,7 @@
-# codepath-prework
+# Hello World Project
 
 ### App Description
-Button that changes text color to white
+This application displays a Hello message to the user and allows the user to change the text color to white
 
 ### App Walk-though
 <img src="https://im.ezgif.com/tmp/ezgif-1-961611c0c3.gif" width=200><br>
